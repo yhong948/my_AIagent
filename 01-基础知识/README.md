@@ -7,6 +7,7 @@
 - [ ] Python 基础语法
 - [ ] NumPy / Pandas 数据处理
 - [ ] Matplotlib 数据可视化
+- [ ] Scikit-learn 机器学习python算法库
 - [ ] 线性代数核心概念（向量、矩阵、特征值）
 - [ ] 概率与统计基础
 - [ ] 微积分（导数、梯度、链式法则）
